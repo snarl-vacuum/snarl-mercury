@@ -1,0 +1,11 @@
+principle=157000        // how much to borrow
+term=15                 // how many years term (years)
+rate=0.03875            // interest rate (per year)
+date=5/1/2018           // first payment date (MM/DD/YYYY)
+extraPrinciple=662.38   // extra principle paid per payment (always)
+#extraExtraPrinciple    // add paymentNo=amount...
+11=10000
+23=10000
+35=13500
+44=59596.94
+#outputCsvFilename=output.csv  // output csv filename

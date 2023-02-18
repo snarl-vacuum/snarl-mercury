@@ -1,0 +1,10 @@
+build/*
+Debug/*
+Release/*
+.vscode/*
+*.code-workspace
+CMakeCache.txt
+*CMakeFiles/*
+Makefile
+*.cmake
+*.exe
